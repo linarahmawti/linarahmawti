@@ -1,4 +1,10 @@
-# 👋 Halo, Saya Lina Rahmati!
+# 👋 Halo Dunia! Saya Lina Rahmati
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VqcGRzcjJ0YWRhMHdpN2V1MWs1Z29rZHcydDRkczh4YTY1dG5rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgM1A0o2bX9rYd3uBf/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
 
 ---
 
@@ -6,15 +12,38 @@ Saya adalah seorang **Web Developer** yang bersemangat dan berdedikasi, siap men
 
 ---
 
-### 🛠️ Keahlian Teknis
+### 🚀 Teknologi yang Saya Kuasai
 
-Saya memiliki keahlian dalam berbagai teknologi pengembangan web, termasuk:
+Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 
-* **HTML**: Struktur dasar setiap halaman web.
-* **CSS**: Styling yang menawan untuk *user interface* yang intuitif.
-* **Tailwind CSS**: Framework CSS yang efisien untuk membangun desain responsif dengan cepat.
-* **PHP**: Bahasa pemrograman *server-side* yang kuat.
-* **Laravel**: Framework PHP yang elegan untuk pengembangan aplikasi web yang cepat dan aman.
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /><br><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br><strong>PHP</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /><br><strong>Laravel</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lina's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Lina's GitHub Streak" />
+</p>
 
 ---
 
