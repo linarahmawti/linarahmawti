@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VqcGRzcjJ0YWRhMHdpN2V1MWs1Z29rZHcydDRkczh4YTY1dG5rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgM1A0o2bX9rYd3uBf/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://i.pinimg.com/originals/97/75/82/9775822c635a7841415518f12822f204.gif"/>
 </p>
 
 ---
@@ -19,19 +19,19 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br><strong>HTML5</strong>
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br><strong>HTML5</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br><strong>CSS3</strong>
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br><strong>CSS3</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /><br><strong>Tailwind CSS</strong>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br><strong>Tailwind CSS</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br><strong>PHP</strong>
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /><br><strong>PHP</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /><br><strong>Laravel</strong>
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" /><br><strong>Laravel</strong>
     </td>
   </tr>
 </table>
@@ -41,8 +41,11 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 ### 📈 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lina's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Lina's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true&line_height=20" alt="Lina's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Lina's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Lina's Top Languages" />
 </p>
 
 ---
@@ -51,7 +54,7 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 
 Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
 
-* **Email**: [Alamat Email Anda]
+* **Email**: linarahmati30@gmail.com
 * **LinkedIn**: [Link Profil LinkedIn Anda]
 
 ---
