@@ -1,4 +1,4 @@
-# 👋 Halo Dunia! Saya Lina Rahmati
+# 👋 Halo! Saya Lina Rahmati
 
 ---
 
@@ -9,6 +9,15 @@
 ---
 
 Saya adalah seorang **Web Developer** yang bersemangat dan berdedikasi, siap mengubah ide menjadi pengalaman digital yang fungsional dan indah. Dengan latar belakang yang kuat dalam pengembangan *front-end* dan *back-end*, saya selalu antusias untuk mempelajari teknologi baru dan menciptakan solusi web yang inovatif.
+
+---
+
+### 📧 Mari Terhubung!
+
+Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
+
+* **Email**: linarahmati30@gmail.com
+* **LinkedIn**: [[Link Profil LinkedIn Anda]](https://www.linkedin.com/in/lina-rahmati-254972260/)
 
 ---
 
@@ -47,15 +56,6 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Lina's Top Languages" />
 </p>
-
----
-
-### 📧 Mari Terhubung!
-
-Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
-
-* **Email**: linarahmati30@gmail.com
-* **LinkedIn**: [Link Profil LinkedIn Anda]
 
 ---
 
