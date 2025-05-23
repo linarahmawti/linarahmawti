@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Halo, Saya Lina Rahmati!
 
-<!--
-**linarahmawti/linarahmawti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Saya adalah seorang **Web Developer** yang bersemangat dan berdedikasi, siap mengubah ide menjadi pengalaman digital yang fungsional dan indah. Dengan latar belakang yang kuat dalam pengembangan *front-end* dan *back-end*, saya selalu antusias untuk mempelajari teknologi baru dan menciptakan solusi web yang inovatif.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Keahlian Teknis
+
+Saya memiliki keahlian dalam berbagai teknologi pengembangan web, termasuk:
+
+* **HTML**: Struktur dasar setiap halaman web.
+* **CSS**: Styling yang menawan untuk *user interface* yang intuitif.
+* **Tailwind CSS**: Framework CSS yang efisien untuk membangun desain responsif dengan cepat.
+* **PHP**: Bahasa pemrograman *server-side* yang kuat.
+* **Laravel**: Framework PHP yang elegan untuk pengembangan aplikasi web yang cepat dan aman.
+
+---
+
+### 📧 Mari Terhubung!
+
+Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
+
+* **Email**: [Alamat Email Anda]
+* **LinkedIn**: [Link Profil LinkedIn Anda]
+
+---
+
+Terima kasih sudah berkunjung ke profil saya! Mari berkreasi bersama.
