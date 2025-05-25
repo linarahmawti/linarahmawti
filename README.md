@@ -17,7 +17,7 @@ Saya adalah seorang **Web Developer** yang bersemangat dan berdedikasi, siap men
 Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
 
 * **Email**: linarahmati30@gmail.com
-* **LinkedIn**: [[Link Profil LinkedIn Anda]](https://www.linkedin.com/in/lina-rahmati-254972260/)
+* **LinkedIn**: [[LinkedIn]](https://www.linkedin.com/in/lina-rahmati-254972260/)
 
 ---
 
