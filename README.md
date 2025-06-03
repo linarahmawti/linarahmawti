@@ -1,4 +1,4 @@
-# 👋 Halo! Saya Lina Rahmati
+# 👋 Hello! I'm Lina Rahmati
 
 ---
 
@@ -8,22 +8,22 @@
 
 ---
 
-Saya adalah seorang **Web Developer** yang bersemangat dan berdedikasi, siap mengubah ide menjadi pengalaman digital yang fungsional dan indah. Dengan latar belakang yang kuat dalam pengembangan *front-end* dan *back-end*, saya selalu antusias untuk mempelajari teknologi baru dan menciptakan solusi web yang inovatif.
+I am a passionate and dedicated Web Developer, ready to turn ideas into functional and beautiful digital experiences. With a strong background in both front-end and back-end development, I'm always excited to learn new technologies and create innovative web solutions.
 
 ---
 
-### 📧 Mari Terhubung!
+### 📧 Let's Connect!
 
-Saya senang berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk menghubungi saya melalui:
+I love collaborating and sharing knowledge. Feel free to reach out to me via:
 
 * **Email**: linarahmati30@gmail.com
 * **LinkedIn**: [[LinkedIn]](https://www.linkedin.com/in/lina-rahmati-254972260/)
 
 ---
 
-### 🚀 Teknologi yang Saya Kuasai
+### 🚀 Technologies
 
-Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
+Here are the technologies and tools I frequently work with:
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 
 ---
 
-### 📈 Statistik GitHub Saya
+### 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true&line_height=20" alt="Lina's GitHub Stats" />
@@ -59,4 +59,5 @@ Berikut adalah daftar teknologi dan *tools* yang sering saya gunakan:
 
 ---
 
-Terima kasih sudah berkunjung ke profil saya! Mari berkreasi bersama.
+Thanks for visiting my profile! Let's create something amazing together. 🚀
+
