@@ -50,11 +50,11 @@ Here are the technologies and tools I frequently work with:
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true&line_height=20" alt="Lina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linarahmawti&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true&line_height=20" alt="Lina's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Lina's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linarahmawti&theme=dark&hide_border=true" alt="Lina's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Lina's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linarahmawti&layout=compact&theme=dark&hide_border=true" alt="Lina's Top Languages" />
 </p>
 
 ---
